@@ -1,5 +1,4 @@
 # xrpics
-Photos of VR and AR hardware
 
 These photos of VR/AR/XR/MR hardware are for anyone to use for any purpose, with or without attribution.
 
