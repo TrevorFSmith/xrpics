@@ -14,3 +14,4 @@ Handy links to the gamepad maps:
 - [Oculus Touch](https://github.com/TrevorFSmith/xrpics/blob/master/Rift%20CV/Touch-Gamepad-Map.jpg)
 - [Vive Pre](https://github.com/TrevorFSmith/xrpics/blob/master/Vive%20Pre/Vive-Pre-Gamepad-Map.jpg)
 - [XBox One](https://github.com/TrevorFSmith/xrpics/blob/master/XBox%20One/XBox-One-Gamepad-Map.jpg)
+- [Microsoft Mixed Reality Controllers 1](https://github.com/TrevorFSmith/xrpics/blob/master/MS%20MR%20Controllers%201/MS-MR-1-Gamepad-Map.jpg)
